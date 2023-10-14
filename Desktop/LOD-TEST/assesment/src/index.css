@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.clip-cirlce {
+    clip-path: 'circle(47.6% at 67% 18%)';
+}
+
+body {
+    font-family: 'Poppins';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    background-color: #ffffff;
+}
